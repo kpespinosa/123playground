@@ -1,0 +1,5 @@
+class Mammal{
+	void move(){
+		sout	
+	}
+}
